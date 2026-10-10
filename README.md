@@ -1,4 +1,4 @@
-# learning
+# Flutter Mini Project
 
 A new Flutter project.
 
